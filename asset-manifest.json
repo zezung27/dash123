@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dash123/static/css/main.a617e044.chunk.css",
+    "main.js": "/dash123/static/js/main.dbe444b9.chunk.js",
+    "main.js.map": "/dash123/static/js/main.dbe444b9.chunk.js.map",
+    "runtime-main.js": "/dash123/static/js/runtime-main.f8ea8dd0.js",
+    "runtime-main.js.map": "/dash123/static/js/runtime-main.f8ea8dd0.js.map",
+    "static/js/2.2103e3f4.chunk.js": "/dash123/static/js/2.2103e3f4.chunk.js",
+    "static/js/2.2103e3f4.chunk.js.map": "/dash123/static/js/2.2103e3f4.chunk.js.map",
+    "static/js/3.36f5bad6.chunk.js": "/dash123/static/js/3.36f5bad6.chunk.js",
+    "static/js/3.36f5bad6.chunk.js.map": "/dash123/static/js/3.36f5bad6.chunk.js.map",
+    "index.html": "/dash123/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dash123/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2103e3f4.chunk.js.LICENSE.txt": "/dash123/static/js/2.2103e3f4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dash123/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8ea8dd0.js",
+    "static/js/2.2103e3f4.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.dbe444b9.chunk.js"
+  ]
+}
